@@ -2,7 +2,7 @@ export function List(){
     // console.log(props)
     return (
         <div id="navbar"> 
-            <ul>
+            <ul className="header-list">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
