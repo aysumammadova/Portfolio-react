@@ -1,0 +1,26 @@
+.poster{
+    background: #000000;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    gap:40px;
+}
+.top-txt h1{
+    font-size:80px;
+}
+.top-txt h2{
+    font-size: 60px;
+}
+
+.bottom{
+    margin: 0 auto;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}

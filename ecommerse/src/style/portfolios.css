@@ -1,0 +1,29 @@
+.portfolios{
+    background-color: #000000;
+    color: #fff;
+    width: auto;
+}
+.cards{
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+}
+.portfolio{
+    background-color: #2b2a2a;
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    gap: 20px;
+}
+.cards-1{
+
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin: 50px 30px;
+    margin-left: 70px;
+}
+
+.card-txt p{
+margin: 20px 0;
+}
